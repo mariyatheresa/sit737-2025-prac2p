@@ -15,13 +15,13 @@ The following must be installed:
 
 ## 🔧 Installation & Setup
 
-### **1. Clone the Repository**
+Clone the Repository
 Run the following command in your terminal:
 ```sh
 git clone https://github.com/yourusername/sit737-2025-prac2p.git
 cd sit737-2025-prac2p
 
-Install all required Node.js dependencies:
+ Install all required Node.js dependencies
 
 npm install
 
